@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/microservicecloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudconfig3344" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudconfigclient3355" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudconfigdeptclient8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudconfigeurekaclient7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudconsumer-dept-80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudconsumerdeptfeign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudconsumerhystrixdashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudeureka7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudproviderdept8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudproviderdept8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudproviderdept8003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudproviderdepthystrix8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloudzuulgeteway9527" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceloudeureka7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceloudeureka7003" charset="UTF-8" />
+  </component>
+</project>

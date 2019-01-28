@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SpirngBoot/SpirngBoot.iml" filepath="$PROJECT_DIR$/../SpirngBoot/SpirngBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud/microservicecloud.iml" filepath="$PROJECT_DIR$/microservicecloud/microservicecloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudapi/microservicecloud-api.iml" filepath="$PROJECT_DIR$/microservicecloudapi/microservicecloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudconfig3344/microservicecloudconfig3344.iml" filepath="$PROJECT_DIR$/microservicecloudconfig3344/microservicecloudconfig3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudconfigclient3355/microservicecloudconfigclient3355.iml" filepath="$PROJECT_DIR$/microservicecloudconfigclient3355/microservicecloudconfigclient3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudconfigdeptclient8001/microservicecloudconfigdeptclient8001.iml" filepath="$PROJECT_DIR$/microservicecloudconfigdeptclient8001/microservicecloudconfigdeptclient8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudconfigeurekaclient7001/microservicecloudconfigeurekaclient7001.iml" filepath="$PROJECT_DIR$/microservicecloudconfigeurekaclient7001/microservicecloudconfigeurekaclient7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudconsumer-dept-80/microservicecloudconsumer-dept-80.iml" filepath="$PROJECT_DIR$/microservicecloudconsumer-dept-80/microservicecloudconsumer-dept-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudconsumerdeptfeign/microservicecloudconsumerdeptfeign.iml" filepath="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/microservicecloudconsumerdeptfeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudconsumerhystrixdashboard/microservicecloudconsumerhystrixdashboard.iml" filepath="$PROJECT_DIR$/microservicecloudconsumerhystrixdashboard/microservicecloudconsumerhystrixdashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudeureka7001/microservicecloudeureka7001.iml" filepath="$PROJECT_DIR$/microservicecloudeureka7001/microservicecloudeureka7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudproviderdept8001/microservicecloudproviderdept8001.iml" filepath="$PROJECT_DIR$/microservicecloudproviderdept8001/microservicecloudproviderdept8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudproviderdept8002/microservicecloudproviderdept8002.iml" filepath="$PROJECT_DIR$/microservicecloudproviderdept8002/microservicecloudproviderdept8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudproviderdept8003/microservicecloudproviderdept8003.iml" filepath="$PROJECT_DIR$/microservicecloudproviderdept8003/microservicecloudproviderdept8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/microservicecloudproviderdepthystrix8001.iml" filepath="$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/microservicecloudproviderdepthystrix8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloudzuulgeteway9527/microservicecloudzuulgeteway9527.iml" filepath="$PROJECT_DIR$/microservicecloudzuulgeteway9527/microservicecloudzuulgeteway9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceloudeureka7002/microserviceloudeureka7002.iml" filepath="$PROJECT_DIR$/microserviceloudeureka7002/microserviceloudeureka7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceloudeureka7003/microserviceloudeureka7003.iml" filepath="$PROJECT_DIR$/microserviceloudeureka7003/microserviceloudeureka7003.iml" />
+    </modules>
+  </component>
+</project>

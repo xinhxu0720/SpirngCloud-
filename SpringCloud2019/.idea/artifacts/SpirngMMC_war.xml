@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpirngMMC:war">
+    <output-path>$PROJECT_DIR$/../SpirngMMC/target</output-path>
+    <root id="archive" name="SpirngMMC.war">
+      <element id="artifact" artifact-name="SpirngMMC:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01c6eb6b-23c6-497e-9b58-8c55cecf70da" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/microservicecloud/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudapi/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudproviderdept8001/target/" />
+    <ignored path="$PROJECT_DIR$/../SpirngMMC/target/" />
+    <ignored path="$PROJECT_DIR$/../SpirngBoot/target/" />
+    <ignored path="$PROJECT_DIR$/../SpirngBootTest/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudconsumer-dept-80/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudeureka7001/target/" />
+    <ignored path="$PROJECT_DIR$/microserviceloudeureka7002/target/" />
+    <ignored path="$PROJECT_DIR$/microserviceloudeureka7003/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudproviderdept8002/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudproviderdept8003/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudconsumerhystrixdashboard/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudzuulgeteway9527/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudconfig3344/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudconfigclient3355/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudconfigeurekaclient7001/target/" />
+    <ignored path="$PROJECT_DIR$/microservicecloudconfigdeptclient8001/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloudconfigeurekaclient7001/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloudconfigeurekaclient7001/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloudconfig3344/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/microservicecloudconfigdeptclient8001/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloudconfigclient3355/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloudconfigclient3355/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloudconfigdeptclient8001/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeptProvider8001_App.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservicecloudconfigdeptclient8001/src/main/java/com/xuxinhui/springcloud/DeptProvider8001_App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#538#539#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mysql</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/microservicecloudproviderdept8003/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdept8003/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdept8002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumer-dept-80/src/main/java/com/xuxinhui/springcloud/cfgbeans/ConfigBean.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumer-dept-80/src/main/java/com/xuxinhui/springcloud/DeptConsumer80_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumer-dept-80/src/main/java/com/xuxinhui/springcloud/myrule/MySelfRule.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumer-dept-80/src/main/java/com/xuxinhui/springcloud/myrule/RandomRule_xxh.java" />
+        <option value="$PROJECT_DIR$/microservicecloudapi/src/main/java/com/xuxinhui/springcloud/service/DeptClienService.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/com/xuxinhui/springcloud/controller/DeptControllet_Consumer.java" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/src/main/resources/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/src/main/java/com/xuxinhui/springcloud/DeptProvider8001_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/src/main/java/com/xuxinhui/springcloud/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/src/main/java/com/xuxinhui/springcloud/DeptProvider8001_Hystrix_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloudapi/src/main/java/com/xuxinhui/springcloud/service/DeptClientServiceFallbackFacto.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/com/xuxinhui/springcloud/DeptConsumer80_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/pom1.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/com/xuxinhui/springcloud/controller/DeptController_Consumer.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/com/xuxinhui/springcloud/DeptConsumer80_Feign_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloudapi/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/java/com/xuxinhui/springcloud/controller/DeptController_Feign.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloudapi/src/main/java/com/xuxinhui/springcloud/service/DeptClientServiceFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/microservicecloudapi/src/main/java/com/xuxinhui/springcloud/service/DeptClientService.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumerhystrixdashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumerhystrixdashboard/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumerhystrixdashboard/src/main/java/com/xuxinhui/springcloud/DeptConsumer_DashBoard_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloudzuulgeteway9527/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudzuulgeteway9527/src/main/java/com/xuxinhui/springcloud/Zuul_9527_StartSpringCloudApp.java" />
+        <option value="$PROJECT_DIR$/microservicecloudzuulgeteway9527/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloudconfig3344/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconfig3344/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloudconfig3344/src/main/java/com/xuxinhui/springcloud/Config_3344_StartSpringCloudApp.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigclient3355/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigclient3355/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigclient3355/src/main/java/com/xuxinhui/spirngcloud/ConfigClientRest.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigclient3355/src/main/java/com/xuxinhui/spirngcloud/rest/ConfigClientRest.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigclient3355/src/main/java/com/xuxinhui/springcloud/rest/ConfigClientRest.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigclient3355/src/main/java/com/xuxinhui/springcloud/rest/ConfigClient_3355_StartSpringCloudApp.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigclient3355/src/main/java/com/xuxinhui/springcloud/ConfigClient_3355_StartSpringCloudApp.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigclient3355/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigeurekaclient7001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigeurekaclient7001/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigeurekaclient7001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigeurekaclient7001/src/main/java/com/xuxinhui/spirngcloud/Config_Git_EurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigdeptclient8001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigdeptclient8001/src/main/java/com/xuxinhui/springcloud/DeptProvider8001_App.java" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigdeptclient8001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigdeptclient8001/src/main/resources/bootstrap.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="620" />
+    <option name="width" value="1285" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages PackagesPane="false" ProjectPane="false" />
+      <showMembers PackagesPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfig3344" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfig3344" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfig3344" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfig3344" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfigdeptclient8001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfigdeptclient8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfigdeptclient8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfigdeptclient8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfigdeptclient8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfigdeptclient8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfigdeptclient8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfigdeptclient8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfigeurekaclient7001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfigeurekaclient7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfigeurekaclient7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfigeurekaclient7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfigeurekaclient7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spirngcloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microservicecloudconfigeurekaclient7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringCloud2019" type="58d84e3e:PackageViewProjectNode" />
+              <item name="microservicecloudeureka7001" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="SpringCloud2019" type="58d84e3e:PackageViewProjectNode" />
+              <item name="microservicecloudeureka7001" type="616d4139:PackageViewModuleNode" />
+              <item name="com.xuxinhui.springcloud" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Dept&#9;FILE&#9;file://D:/IntelliJ IDEA 2018.1/IDEAproject/SpringCloud2019/microservicecloudapi/src/main/java/com/xuxinhui/springcloud/entities/Dept.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15466926" />
+    <property name="project.structure.side.proportion" value="0.3202312" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xuxinhui.springcloud.cfgbeans" />
+      <recent name="com.xuxinhui.springcloud" />
+      <recent name="springcloud" />
+      <recent name="com.xuxinhui.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA 2018.1\IDEAproject\SpringCloud2019\microservicecloudconfigdeptclient8001\src\main\resources" />
+      <recent name="D:\IntelliJ IDEA 2018.1\IDEAproject\SpringCloud2019\microservicecloudconfigdeptclient8001\src\main\java\com\xuxinhui\springcloud" />
+      <recent name="D:\IntelliJ IDEA 2018.1\IDEAproject\SpringCloud2019\microservicecloudconsumerdeptfeign\src\main\resources" />
+      <recent name="D:\IntelliJ IDEA 2018.1\IDEAproject\SpringCloud2019\microservicecloudconsumerdeptfeign\src\main\java" />
+      <recent name="D:\IntelliJ IDEA 2018.1\IDEAproject\SpringCloud2019\microservicecloudconsumerdeptfeign" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DeptProvider8001_App">
+    <configuration name="ConfigClient_3355_StartSpringCloudApp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuxinhui.springcloud.ConfigClient_3355_StartSpringCloudApp" />
+      <module name="microservicecloudconfigclient3355" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuxinhui.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Config_3344_StartSpringCloudApp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuxinhui.springcloud.Config_3344_StartSpringCloudApp" />
+      <module name="microservicecloudconfig3344" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuxinhui.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Config_Git_EurekaServerApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuxinhui.spirngcloud.Config_Git_EurekaServerApplication" />
+      <module name="microservicecloudconfigeurekaclient7001" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuxinhui.spirngcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DeptConsumer80_App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuxinhui.springcloud.DeptConsumer80_App" />
+      <module name="microservicecloudconsumer-dept-80" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuxinhui.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DeptConsumer80_Feign_App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuxinhui.springcloud.DeptConsumer80_Feign_App" />
+      <module name="microservicecloudconsumerdeptfeign" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuxinhui.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DeptConsumer_DashBoard_App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuxinhui.springcloud.DeptConsumer_DashBoard_App" />
+      <module name="microservicecloudconsumerhystrixdashboard" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuxinhui.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DeptProvider8001_App 配置类" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.xuxinhui.springcloud.DeptProvider8001_App" />
+      <module name="microservicecloudconfigdeptclient8001" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuxinhui.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DeptProvider8001_App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuxinhui.springcloud.DeptProvider8001_App" />
+      <module name="microservicecloudproviderdept8001" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuxinhui.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DeptProvider8001_Hystrix_App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuxinhui.springcloud.DeptProvider8001_Hystrix_App" />
+      <module name="microservicecloudproviderdepthystrix8001" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuxinhui.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DeptProvider8002_App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuxinhui.springcloud.DeptProvider8002_App" />
+      <module name="microservicecloudproviderdept8002" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuxinhui.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DeptProvider8003_App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuxinhui.springcloud.DeptProvider8003_App" />
+      <module name="microservicecloudproviderdept8003" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuxinhui.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EurekaServer7001_App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuxinhui.springcloud.EurekaServer7001_App" />
+      <module name="microservicecloudeureka7001" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuxinhui.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EurekaServer7002_App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuxinhui.springcloud.EurekaServer7002_App" />
+      <module name="microserviceloudeureka7002" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuxinhui.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EurekaServer7003_App" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuxinhui.springcloud.EurekaServer7003_App" />
+      <module name="microserviceloudeureka7003" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuxinhui.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Zuul_9527_StartSpringCloudApp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuxinhui.springcloud.Zuul_9527_StartSpringCloudApp" />
+      <module name="microservicecloudzuulgeteway9527" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuxinhui.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConfigClient_3355_StartSpringCloudApp" />
+      <item itemvalue="Application.Config_Git_EurekaServerApplication" />
+      <item itemvalue="Application.DeptProvider8001_App 配置类" />
+      <item itemvalue="Application.Config_3344_StartSpringCloudApp" />
+      <item itemvalue="Application.Zuul_9527_StartSpringCloudApp" />
+      <item itemvalue="Application.DeptConsumer_DashBoard_App" />
+      <item itemvalue="Application.EurekaServer7001_App" />
+      <item itemvalue="Application.EurekaServer7002_App" />
+      <item itemvalue="Application.EurekaServer7003_App" />
+      <item itemvalue="Application.DeptProvider8001_App" />
+      <item itemvalue="Application.DeptProvider8002_App" />
+      <item itemvalue="Application.DeptProvider8003_App" />
+      <item itemvalue="Application.DeptConsumer80_App" />
+      <item itemvalue="Application.DeptConsumer80_Feign_App" />
+      <item itemvalue="Application.DeptProvider8001_Hystrix_App" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\徐鑫辉\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01c6eb6b-23c6-497e-9b58-8c55cecf70da" name="Default" comment="" />
+      <created>1546928784583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546928784583</updated>
+      <workItem from="1546928790273" duration="18407000" />
+      <workItem from="1546955931090" duration="3673000" />
+      <workItem from="1546959772112" duration="711000" />
+      <workItem from="1546998889580" duration="2062000" />
+      <workItem from="1547001930357" duration="2953000" />
+      <workItem from="1547005226585" duration="4193000" />
+      <workItem from="1547012617425" duration="1553000" />
+      <workItem from="1547014192356" duration="8428000" />
+      <workItem from="1547028610046" duration="2768000" />
+      <workItem from="1547031730951" duration="1690000" />
+      <workItem from="1547040727046" duration="6439000" />
+      <workItem from="1547086205651" duration="3477000" />
+      <workItem from="1547089758378" duration="664000" />
+      <workItem from="1547090474904" duration="43000" />
+      <workItem from="1547090536929" duration="385000" />
+      <workItem from="1547090984976" duration="3927000" />
+      <workItem from="1547098880100" duration="9944000" />
+      <workItem from="1547108987526" duration="4640000" />
+      <workItem from="1547124296794" duration="6690000" />
+      <workItem from="1547132342067" duration="306000" />
+      <workItem from="1547172172204" duration="15357000" />
+      <workItem from="1547201523078" duration="1619000" />
+      <workItem from="1547212001310" duration="748000" />
+      <workItem from="1547258481160" duration="228000" />
+      <workItem from="1547258728876" duration="223000" />
+      <workItem from="1547258971419" duration="1276000" />
+      <workItem from="1547260290463" duration="437000" />
+      <workItem from="1547260799455" duration="177000" />
+      <workItem from="1547260994220" duration="519000" />
+      <workItem from="1547261533720" duration="147000" />
+      <workItem from="1547261698899" duration="173000" />
+      <workItem from="1547275599683" duration="563000" />
+      <workItem from="1547276194633" duration="112000" />
+      <workItem from="1547276322475" duration="70000" />
+      <workItem from="1547276408445" duration="7697000" />
+      <workItem from="1547343081720" duration="940000" />
+      <workItem from="1547361482006" duration="1768000" />
+      <workItem from="1547431692704" duration="19539000" />
+      <workItem from="1547517265599" duration="15879000" />
+      <workItem from="1547557104754" duration="595000" />
+      <workItem from="1547604404413" duration="8055000" />
+      <workItem from="1547621511169" duration="3792000" />
+      <workItem from="1547625322688" duration="7477000" />
+      <workItem from="1547690252855" duration="10623000" />
+      <workItem from="1547777196907" duration="3454000" />
+      <workItem from="1547795260783" duration="2936000" />
+      <workItem from="1547799710970" duration="7085000" />
+      <workItem from="1547861021031" duration="3000" />
+      <workItem from="1548035691356" duration="1494000" />
+      <workItem from="1548061727419" duration="742000" />
+      <workItem from="1548123366090" duration="4321000" />
+      <workItem from="1548417050804" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="springcloudtest_rewrwe - 2019.01.10 at 11h 30m 58s.xml">
+      <configuration name="springcloudtest.rewrwe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="springcloudtest_rewrwe - 2019.01.10 at 11h 32m 10s.xml">
+      <configuration name="springcloudtest.rewrwe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="springcloudtest_rewrwe - 2019.01.10 at 11h 32m 34s.xml">
+      <configuration name="springcloudtest.rewrwe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="spingtest_rewrwe - 2019.01.10 at 11h 36m 03s.xml">
+      <configuration name="spingtest.rewrwe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpirngBooTtest_rewr - 2019.01.10 at 13h 57m 20s.xml">
+      <configuration name="SpirngBooTtest.rewr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpirngBooTtest_rewr - 2019.01.10 at 13h 57m 44s.xml">
+      <configuration name="SpirngBooTtest.rewr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpirngBooTtest_rewr - 2019.01.10 at 14h 13m 13s.xml">
+      <configuration name="SpirngBooTtest.rewr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpirngBooTtest_rewr - 2019.01.10 at 14h 44m 21s.xml">
+      <configuration name="SpirngBooTtest.rewr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpirngBooTtest_rewr - 2019.01.10 at 14h 55m 23s.xml">
+      <configuration name="SpirngBooTtest.rewr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpirngBooTtest_rewr - 2019.01.10 at 16h 08m 47s.xml">
+      <configuration name="SpirngBooTtest.rewr" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="201599000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.508547" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985755" visible="true" weight="0.22117962" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297587" />
+      <window_info id="Structure" order="1" sideWeight="0.5014245" side_tool="true" weight="0.21715818" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5084746" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.32905984" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.22453083" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32905984" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32909605" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32909605" />
+      <window_info id="Image Layers" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6002825" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32909605" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.22453083" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19705094" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5084746" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="31" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/microservicecloudconfigeurekaclient7001/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloudconfigeurekaclient7001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloudconfig3344/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloudconfigclient3355/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloudconfigclient3355/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloudconfigdeptclient8001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloudconfigdeptclient8001/src/main/java/com/xuxinhui/springcloud/DeptProvider8001_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservicecloudconfigdeptclient8001/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SpirngMMC:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>microservicecloudconfigdeptclient8001</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3202312" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

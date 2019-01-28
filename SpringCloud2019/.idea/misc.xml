@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../SpirngBoot" />
+    <file type="web" url="file://$PROJECT_DIR$/../SpirngBootTest" />
+    <file type="web" url="file://$PROJECT_DIR$/../SpirngMMC" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/microservicecloud/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudapi/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpirngMMC/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpirngBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/../SpirngBootTest/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdept8001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumer-dept-80/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudeureka7001/pom.xml" />
+        <option value="$PROJECT_DIR$/microserviceloudeureka7002/pom.xml" />
+        <option value="$PROJECT_DIR$/microserviceloudeureka7003/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdept8002/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdept8003/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudproviderdepthystrix8001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumerdeptfeign/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconsumerhystrixdashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudzuulgeteway9527/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconfig3344/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigclient3355/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigeurekaclient7001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloudconfigdeptclient8001/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
